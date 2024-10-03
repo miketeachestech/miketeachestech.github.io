@@ -1,20 +1,12 @@
-baseURL = "https://example.com"
+baseURL = "https://miketeachestech.com"
 title = "Mike Teaches Tech"
-author = "username"
+author = "Michael"
 languageCode = "en-AU"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 theme = "tella"
 enableRobotsTXT = true
-
-# Please enable this feature if the site is available in Japanese, Chinese or Korean.
-#hasCJKLanguage = true
-
-# If you're using Google Analytics, you can enable this feature.
-#googleAnalytics = "UA-12345678-1"
-
-# Disqus Comment System
-#disqusShortname = ""
+#googleAnalytics = "to be added"
 
 [params]
 
@@ -32,7 +24,7 @@ enableRobotsTXT = true
     size = "h-14"
 
   [params.site]
-    name = "Tella"
+    name = "Mike Teaches Tech"
 
   [params.icon]
     #If you want to use FontAwesome, set this parameter to true.
@@ -52,28 +44,34 @@ enableRobotsTXT = true
 [menu]
 
   [[menu.main]]
-    identifier = "products"
-    name = "Products"
-    url = "/products/"
+    identifier = "tech-support-inner-west-sydney"
+    name = "Tech Support"
+    url = "/tech-support-inner-west-sydney/"
     weight = 1
 
   [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/blog/"
+    identifier = "hsc-software-engineering-tutoring"
+    name = "Tutoring"
+    url = "/hsc-software-engineering-tutoring/"
     weight = 2
 
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
+    identifier = "workshops-for-schools-sydney-nsw"
+    name = "Workshops"
+    url = "/workshops-for-schools-sydney-nsw/"
     weight = 3
 
   [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/contact/"
+    identifier = "about"
+    name = "About Mike"
+    url = "/about/"
     weight = 4
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Posts & Notices"
+    url = "/blog/"
+    weight = 5
 
   # Footer Menu
   [[menu.footer]]
