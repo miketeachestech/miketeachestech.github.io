@@ -1,0 +1,38 @@
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+
+# Folders
+_obj
+_test
+
+# Architecture specific extensions/prefixes
+*.[568vq]
+[568vq].out
+
+*.cgo1.go
+*.cgo2.c
+_cgo_defun.c
+_cgo_gotypes.go
+_cgo_export.*
+
+_testmain.go
+
+*.exe
+*.test
+
+# Hugo build output (public/ is the default folder where the built site is generated)
+public/
+resources/
+hugo_stats.json
+
+# Node.js dependencies (if you're using npm or yarn for PostCSS, Autoprefixer, etc.)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Logs and caches
+*.log
+.DS_Store
+.cache/
