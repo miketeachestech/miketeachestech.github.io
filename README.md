@@ -22,7 +22,7 @@ You need to have the following tools installed on your system:
 Follow the instructions on the [Hugo official site](https://gohugo.io/getting-started/installing/) to install Hugo on your system.
 
 3. **Install npm:** 
-Follow the instructions on the [NodeJS official site](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) to install npm on your system.
+Follow the instructions on the [npm official docs site](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) to install npm on your system.
 
 4. **Install dependencies:**
 Run `npm install` in the root folder of the project.
