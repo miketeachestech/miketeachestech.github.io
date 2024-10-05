@@ -1,4 +1,4 @@
-baseURL = "https://miketeachestech.com"
+baseURL = "https://miketeachestech.com.au"
 title = "Mike Teaches Tech"
 author = "Michael"
 languageCode = "en-AU"
@@ -6,10 +6,9 @@ DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 theme = "tella"
 enableRobotsTXT = true
-#googleAnalytics = "to be added"
+googleAnalytics = "G-3XWV234E74"
 
 [params]
-
   showBlog = true
   mainSections = ['blog']
 
@@ -17,11 +16,11 @@ enableRobotsTXT = true
 
   [params.logo]
     main = "img/logo/logo.svg"
-    alt = "Tella Logo"
+    alt = "Mike Teaches Tech Logo"
 
     # The size parameter is the class name of tailwindcss
     # https://tailwindcss.com/
-    size = "h-14"
+    # size = "h-14"
 
   [params.site]
     name = "Mike Teaches Tech"
@@ -31,15 +30,12 @@ enableRobotsTXT = true
     fontawesome = true
 
   [params.homepage_meta_tags]
-    meta_description = "A Hugo Theme for OSSProject, Companies, Organization..."
-    meta_og_title = "Tella"
+    meta_description = "Mike Teaches Tech provides high quality in-home tech support, tutoring services, and workshops for schools/groups."
+    meta_og_title = "Mike Teaches Tech"
     meta_og_type = "website"
-    meta_og_url = "https://tella.pages.dev"
-    meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
-    meta_og_description = "A Hugo Theme for OSSProject, Companies, Organization..."
-    meta_twitter_card = "summary_large_image"
-    meta_twitter_site = "@username"
-    meta_twitter_creator = "@username"
+    meta_og_url = "https://miketeachestech.com"
+    meta_og_image = "img/logo/logo.png"
+    meta_og_description = "Mike Teaches Tech provides high quality in-home tech support, tutoring services, and workshops for schools/groups."
 
 [menu]
 
@@ -81,6 +77,12 @@ enableRobotsTXT = true
 
   [[menu.footer]]
     name = "Github"
-    url = "https://github.com/opera7133/tella"
+    url = "https://github.com/miketeachestech"
     pre = "<i class='icon-github text-2xl'></i>"
       weight = 2
+
+  [[menu.footer]]
+    name = "YouTube"
+    url = "https://www.youtube.com/@miketeachestech-au"
+    pre = "<i class='icon-youtube text-2xl'></i>"
+      weight = 3

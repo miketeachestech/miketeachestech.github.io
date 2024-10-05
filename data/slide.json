@@ -1,11 +1,19 @@
 [
   {
-    "title": "Tella, A Hugo theme for Companies.",
+    "title": "Hi, I'm Mike!",
     "image": "img/slide/slide01.jpg"
   },
   {
-    "title": "Sample text here...",
-    "image": "img/slide/slide02.jpg",
+    "title": "I tutor tech.",
+    "image": "img/slide/slide02.jpg"
+  },
+  {
+    "title": "I fix tech.",
+    "image": "img/slide/slide03.jpg"
+  },
+  {
+    "title": "I teach tech.",
+    "image": "img/slide/slide04.jpg",
     "color": "text-black"
   }
 ]
