@@ -65,6 +65,9 @@ jobs:
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
+      - name: Prepare Deployment Files
+        run: |
+          cp CNAME public/ # Copy the CNAME file into the public directory
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
