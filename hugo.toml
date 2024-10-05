@@ -5,7 +5,7 @@ languageCode = "en-AU"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 theme = "tella"
-enableRobotsTXT = true
+enableRobotsTXT = false
 googleAnalytics = "G-3XWV234E74"
 
 [params]
@@ -36,6 +36,11 @@ googleAnalytics = "G-3XWV234E74"
     meta_og_url = "https://miketeachestech.com"
     meta_og_image = "img/logo/logo.png"
     meta_og_description = "Mike Teaches Tech provides high quality in-home tech support, tutoring services, and workshops for schools/groups."
+
+[sitemap]
+    changefreq = "monthly"
+    priority = 0.5
+    filename = "sitemap.xml"
 
 [menu]
 
