@@ -16,7 +16,7 @@ You need to have the following tools installed on your system:
 ### Installing
 
 1. **Clone the repository:**
-`git clone https://github.com/miketeachestech/miketeachestech-website.git` 
+`git clone https://github.com/miketeachestech/miketeachestech.github.io.git` 
 
 2. **Install Hugo:**
 Follow the instructions on the [Hugo official site](https://gohugo.io/getting-started/installing/) to install Hugo on your system.
@@ -39,8 +39,4 @@ To integrate the Tella theme into your Hugo site:
 
 ## Deployment
 
-To deploy your website using GitHub Pages:
-
-1. Ensure your repository is set up to deploy from the `gh-pages` branch.
-2. Push your changes to GitHub: `git push origin main` 
-3. Your changes should now be live on GitHub Pages at `http://yourusername.github.io/miketeachestech-website`.
+To deploy your Hugo website using GitHub Pages, follow [these instructions.](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
