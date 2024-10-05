@@ -1,25 +1,19 @@
 +++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
+title = "About Mike"
+description = "Mike is a tech all-rounder, having spent time working as a Desktop Support Officer, Software Engineer, Cloud Solutions Architect, Data Analyst, and more."
+date = "2024-10-04"
 aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+author = "Michael Grassi"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+[Michael Grassi](https://www.linkedin.com/in/michael-g-426543122/), known to most as Mike, is an IT aficionado with a flair for software development, cloud solutions architecture, and data analytics. His solid foundation in IT is backed by a Bachelor of Science in Information Technology from the University of Technology Sydney, where he not only excelled as a student but also shared his knowledge as a tutor and lecturer, tackling subjects like Software Development Studio, Business Requirements Modelling, and Database Fundamentals.
 
-Hugo makes use of a variety of open source projects including:
+Mike has recently wrapped up his role as a Senior Specialist in Data Analytics and Insights at Transport for NSW. In this capacity, he mastered the use of tools such as PowerBI and Azure Data Factory while also leading initiatives in cybersecurity awareness. His extensive experience with data analytics and his knack for making complex concepts accessible are what make him an excellent facilitator for workshops that cater to a diverse audience, ranging from eager young learners to seasoned tech enthusiasts.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+His journey also includes a chapter as a Cloud Solutions Architect, where he steered teams towards crafting secure data storage solutions and optimizing cloud infrastructures. This role perfectly positions him to guide both individuals and businesses through the clouds of cloud technology and modern software practices with ease and expertise.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Not just a tech pro but also a mentor, Mike has coached students for the CyberTaipan competition, and his extensive teaching stint at the University of Technology Sydney underscores his passion for education. These experiences have sharpened his skills in delivering customized, in-depth tutoring across various university-level IT subjects, ensuring learners can hit their educational targets.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+Mike’s hands-on approach to project management and his knack for developing and troubleshooting software solutions, seen in his roles at DiUS and Transport for NSW, equip him well to help clients resolve tech troubles and boost their home or business tech setups through Mike Teaches Tech.
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Fun, knowledgeable, and always ready to solve a tech puzzle, Mike brings a diverse skill set and a professional yet personable approach to offering specialized IT services. Whether it’s leading educational workshops, providing personalized tech support, or diving deep into the nitty-gritty of IT careers, Mike is your go-to guy for making tech work smarter for you.
