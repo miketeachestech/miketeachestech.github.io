@@ -1,18 +1,20 @@
 [
   {
-    "title": "Simple",
-    "description": "All the bare necessities are there.",
-    "icon": "icon-desktop_windows"
+    "title": "Tutoring",
+    "description": "Private tutoring for high school (HSC Software Engineering) and university students.",
+    "icon": "icon-person",
+    "link": "/hsc-software-engineering-tutoring/"
   },
   {
-    "title": "Fast",
-    "description": "Light weight and fast loading speed.",
-    "icon": "icon-lightbulb_outline"
+    "title": "Tech Support",
+    "description": "Expert IT support, setup/installation of new tech, and personalized advice right to your doorstep.",
+    "icon": "icon-desktop_windows",
+    "link": "/tech-support-inner-west-sydney/"
   },
   {
-    "title": "Github",
-    "description": "Please fork the Github repository and contribute to this theme!",
-    "icon": "icon-github",
-    "link": "https://github.com/opera7133/tella"
+    "title": "Workshops",
+    "description": "IT workshops for your school, business, or group (Python Fundamentals Bootcamp, Cybersecurity Awareness, and more).",
+    "icon": "icon-lightbulb_outline",
+    "link": "/workshops-for-schools-sydney-nsw/"
   }
 ]

@@ -1,18 +1,18 @@
 [
   {
-    "title": "Hi, I'm Mike!",
+    "title": "This is Mike!",
     "image": "img/slide/slide01.jpg"
   },
   {
-    "title": "I tutor tech.",
+    "title": "Mike tutors tech.",
     "image": "img/slide/slide02.jpg"
   },
   {
-    "title": "I fix tech.",
+    "title": "Mike fixes tech.",
     "image": "img/slide/slide03.jpg"
   },
   {
-    "title": "I teach tech.",
+    "title": "Mike teaches tech.",
     "image": "img/slide/slide04.jpg",
     "color": "text-black"
   }

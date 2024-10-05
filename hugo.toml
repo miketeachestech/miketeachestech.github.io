@@ -40,16 +40,16 @@ googleAnalytics = "G-3XWV234E74"
 [menu]
 
   [[menu.main]]
-    identifier = "tech-support-inner-west-sydney"
-    name = "Tech Support"
-    url = "/tech-support-inner-west-sydney/"
-    weight = 1
-
-  [[menu.main]]
     identifier = "hsc-software-engineering-tutoring"
     name = "Tutoring"
     url = "/hsc-software-engineering-tutoring/"
-    weight = 2
+    weight = 1
+
+  [[menu.main]]
+      identifier = "tech-support-inner-west-sydney"
+      name = "Tech Support"
+      url = "/tech-support-inner-west-sydney/"
+      weight = 2
 
   [[menu.main]]
     identifier = "workshops-for-schools-sydney-nsw"
