@@ -1,10 +1,10 @@
 # Mike Teaches Tech Website
 
-Welcome to the GitHub repository for the [Mike Teaches Tech website](https://www.miketeachestech.com). This site is built using [Hugo](https://gohugo.io/) using the [Tella theme](https://github.com/opera7133/tella). The site is hosted on [GitHub Pages](https://pages.github.com/) and uses a custom domain purchased from [GoDaddy](https://www.godaddy.com/).
+Welcome to the GitHub repository for the [Mike Teaches Tech website](https://www.miketeachestech.com). This site is built using [Hugo](https://gohugo.io/) with the [Tella theme](https://github.com/opera7133/tella). The site is hosted on [GitHub Pages](https://pages.github.com/) and utilizes a custom domain purchased from [GoDaddy](https://www.godaddy.com/).
 
 ## Getting Started
 
-These instructions will get you a copy of this website up and running on your local machine for development and testing purposes, or perhaps to make your own website based on mine! See deployment for notes on how to deploy the project as a live system.
+These instructions will get you a copy of this website up and running on your local machine for development and testing purposes, or perhaps to get you started in making your own website!
 
 ### Prerequisites
 
@@ -32,10 +32,7 @@ Run `hugo server` in the root folder of the project. This command will start the
 
 ### Using the Tella Theme
 
-To integrate the Tella theme into your Hugo site:
-
-1. Ensure you have the Tella theme files in your themes directory. You might need to run `git submodule add https://github.com/opera7133/tella.git themes/tella` in the root folder of your project.
-2. Update the `config.toml` file in your Hugo site to set `theme = "tella"`.
+Ensure you have the Tella theme files in your themes directory. You might need to run `git submodule add https://github.com/opera7133/tella.git themes/tella` in the root folder of your project.
 
 ## Deployment
 
