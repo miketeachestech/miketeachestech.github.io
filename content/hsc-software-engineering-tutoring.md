@@ -27,7 +27,7 @@ Finding a tutor whose communication style aligns with your learning needs is cru
 
 |                | 1 hour | 1.5 hours | 2 hours | 2.5 hours | 3 hours |
 |----------------|--------|-----------|---------|-----------|---------|
-| **In-person**  | $100   | $140      | $180    | $215      | $250    |
+| **In-person**  | N/A    | $140      | $180    | $215      | $250    |
 | **Zoom/Teams** | $70    | $105      | $135    | $170      | $200    |
 
 Cash and bank transfer are accepted. 
