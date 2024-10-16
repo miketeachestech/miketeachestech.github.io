@@ -38,7 +38,7 @@ googleAnalytics = "G-3XWV234E74"
     meta_og_description = "Mike Teaches Tech provides high quality in-home tech support, tutoring services, and workshops for schools/groups."
 
 [sitemap]
-    changefreq = "monthly"
+    changefreq = "weekly"
     priority = 0.5
     filename = "sitemap.xml"
 
