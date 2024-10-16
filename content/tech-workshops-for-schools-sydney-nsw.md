@@ -4,7 +4,7 @@ title = "Tech Workshops"
 
 ## HSC Software Engineering - Python Fundamentals Workshop
 
-Mike offers a comprehensive workshop exploring the essentials of Python, a key component in the new HSC Software Engineering curriculum. This workshop typically covers object-oriented programming, data structures, and more, equipping students with a solid foundation in Python coding practices. However, Mike can scale the complexity of the workshop to an appropriate level for whereever the students are in the HSC course.
+Mike offers a comprehensive workshop exploring the essentials of Python, a key component in the new HSC Software Engineering curriculum. This workshop typically covers object-oriented programming, data structures, and more, equipping students with a solid foundation in Python coding practices. However, Mike can scale the complexity of the workshop to an appropriate level for wherever the students are in the HSC course.
 
 ## Cybersecurity Awareness Workshop
 
