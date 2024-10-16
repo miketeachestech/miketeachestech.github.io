@@ -77,6 +77,4 @@ When designing secure software, it’s crucial to think about the people who wil
 - **Update Notifications and Manual Control**: For tech-savvy users, offer manual updates with detailed info about what’s being updated, so they can assess the security changes themselves.
 
 ### Wrapping It Up
-When designing secure software, it’s all about balancing **security** and **usability** based on the skills of your users. Make things easy and secure for beginners, while giving the pros the tools they need to stay in control. This way, everyone—from the least experienced user to the most advanced—can use your software confidently and safely.
-
-Remember, a great software product keeps everyone safe, no matter their skill level!
+When designing secure software, it’s all about balancing **security** and **usability** based on the skills of your users. Make things easy and secure for beginners, while giving the pros the tools they need to stay in control. This way, everyone—from the least experienced user to the most advanced—can use your software confidently and safely. Remember, a great software product keeps everyone safe, no matter their skill level!

@@ -46,6 +46,4 @@ Accountability means making sure all actions in the system can be traced back to
 - **Non-Repudiation**: Use techniques like digital signatures to ensure users can’t deny their actions.
 
 ### Wrapping It Up
-Incorporating these core security concepts—**authentication, authorization, and accountability**—is crucial when building secure software. Each principle helps keep the system safe, making sure users can access what they should, without compromising security. By applying these practices, you’ll create software that users trust and that is resilient against threats.
-
-Stay secure, and happy coding!
+Incorporating these core security concepts—**authentication, authorization, and accountability**—is crucial when building secure software. Each principle helps keep the system safe, making sure users can access what they should, without compromising security. By applying these practices, you’ll create software that users trust and that is resilient against threats. Stay secure!

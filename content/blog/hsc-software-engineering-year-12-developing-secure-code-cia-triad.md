@@ -47,5 +47,3 @@ Availability means that the system and its data should always be accessible to a
 
 ### Wrapping It Up
 The **CIA Triad**—Confidentiality, Integrity, and Availability—helps you understand what’s essential when designing secure software. By keeping data safe, making sure it’s accurate, and ensuring the system is accessible, you’re well on your way to building resilient and secure software. Remember, secure software doesn’t just work well—it keeps users’ data safe and builds trust.
-
-Apply these principles in your code, and you'll be creating secure, dependable applications that users can count on.

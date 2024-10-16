@@ -30,15 +30,15 @@ We all know cyber-attacks are bad news—think ransomware or hackers stealing in
 Software development has a lot of steps, and each one is important for security. Let’s walk through these stages and see how we can keep security front and center.
 
 #### **2.1. Requirements Definition**
-First things first: what does your software need to do? During this phase, it’s all about defining the goals, including security needs.
+First things first: what does your software need to do? During this phase, it’s all about defining the goals, including security needs. Gather the business requirements!
 - **Security Considerations**: Identify data that needs protection (like passwords or user data), and make sure you’re complying with laws (e.g., Privacy Act).
 
 #### **2.2. Determining Specifications**
-Once you know what your software should do, write down detailed instructions for how to make it happen.
+Once you know what your software should do, write down detailed instructions for how to make it happen. Convert business requirements into things like user stories.
 - **Security Considerations**: Specify things like secure communication protocols (e.g., HTTPS) and define secure storage and password policies.
 
 #### **2.3. Design**
-This phase is like making a blueprint for your software.
+This phase is like making a blueprint for your software. You'll be mapping out your system using techniques like making DFDs, ERDs, and class diagrams. 
 - **Security Considerations**: Design with security models like **Role-Based Access Control (RBAC)**. In Python, use proper input validation to prevent common attacks, like **SQL injection** or **cross-site scripting (XSS)**.
 
 #### **2.4. Development**
@@ -46,11 +46,11 @@ This is where the coding magic happens!
 - **Security Considerations**: Follow secure coding standards (e.g., **OWASP's Top 10**). Validate all inputs to avoid nasty surprises. In Python, use libraries like `bcrypt` for secure password hashing.
 
 #### **2.5. Integration**
-When all the parts of your project come together, they need to play nice.
+When all the parts of your project come together, they need to play nicely together. For example, you might need to connect your program to an external API or database. 
 - **Security Considerations**: Ensure secure data exchange between components, like using **API keys** and **OAuth** for secure communication.
 
 #### **2.6. Testing and Debugging**
-Test, test, and then test again! This is where you find and fix errors.
+Test, test, and then test again! This is where you find/fix errors. Instead of manually checking that everything works, try to write automated unit tests using a library like `Pytest`.
 - **Security Considerations**: Conduct **penetration testing** (pretend you’re a hacker) and use Python tools like `Bandit` to scan for vulnerabilities.
 
 #### **2.7. Installation**
@@ -58,10 +58,8 @@ Now that your software is ready, it’s time to deploy it.
 - **Security Considerations**: Secure your environment (disable unnecessary services, enable firewalls). Keep sensitive data safe during setup (e.g., using tools like `dotenv` to manage API keys securely).
 
 #### **2.8. Maintenance**
-Once your software is out in the world, it needs some ongoing TLC.
+Once your software is out in the world, it needs some ongoing care.
 - **Security Considerations**: Regularly apply security patches, update dependencies, and use tools like `pip audit` to catch any vulnerabilities. Keep an eye out for suspicious activity and perform regular security checkups.
 
 ### Final Thoughts
-Securing software might seem like a lot, but breaking it down step-by-step makes it way more manageable. Plus, it’s super satisfying to know that what you’re building can stand strong against attacks. Secure software isn’t just a “nice-to-have”—it’s crucial in the digital world we live in.
-
-Happy coding, and stay secure!
+Securing software might seem like a lot, but breaking it down step-by-step makes it way more manageable. Plus, it’s super satisfying to know that what you’re building can stand strong against attacks. Secure software isn’t just a “nice-to-have”—it’s crucial in the digital world we live in. Happy coding, and stay secure!
