@@ -1,5 +1,5 @@
 +++
-title = "IT Workshops"
+title = "Tech Workshops"
 +++
 
 ## HSC Software Engineering - Python Fundamentals Workshop

@@ -57,9 +57,9 @@ googleAnalytics = "G-3XWV234E74"
       weight = 2
 
   [[menu.main]]
-    identifier = "workshops-for-schools-sydney-nsw"
+    identifier = "tech-workshops-for-schools-sydney-nsw"
     name = "Workshops"
-    url = "/workshops-for-schools-sydney-nsw"
+    url = "/tech-workshops-for-schools-sydney-nsw"
     weight = 3
 
   [[menu.main]]
