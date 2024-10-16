@@ -2,7 +2,7 @@
 title = "Tech Support"
 +++
 
-Mike provides comprehensive in-home tech services, tailored just for you. Whether you're grappling with a software issue, a nasty virus, setting up a new device, or in need of expert troubleshooting, Mike is here to help. He also offers personalized advice to enhance your home technology setup. For your convenience, Mike visits directly to your home, ensuring a smooth and hassle-free experience. Make Mike your personal tech specialist today!
+Mike provides comprehensive in-home tech services, tailored just for you. Whether you're grappling with a software issue, a nasty virus, setting up a new device, or in need of expert troubleshooting: Mike is here to help. He also offers personalized advice to enhance your home technology setup. For your convenience, Mike visits directly to your home, ensuring a smooth and hassle-free experience. Make Mike your personal tech specialist today!
 
 ## Locations
 
