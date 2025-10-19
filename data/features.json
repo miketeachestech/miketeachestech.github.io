@@ -1,15 +1,15 @@
 [
   {
-    "title": "Tutoring",
-    "description": "Private tutoring for high school (HSC Software Engineering) and university students.",
-    "icon": "icon-person",
-    "link": "/hsc-software-engineering-tutoring/"
-  },
-  {
     "title": "Tech Support",
     "description": "Expert IT support, setup/installation of new tech, and personalized advice right to your doorstep.",
     "icon": "icon-desktop_windows",
     "link": "/tech-support-inner-west-sydney/"
+  },
+  {
+    "title": "Tutoring",
+    "description": "Private tutoring for high school (HSC Software Engineering) and university students.",
+    "icon": "icon-person",
+    "link": "/hsc-software-engineering-tutoring/"
   },
   {
     "title": "Workshops",
